@@ -16,7 +16,7 @@ The goal was to replicate the type of reporting and analysis that supports real 
 
 ## Dataset
 
-- **Source:** Supply Chain Management SQL Case Study (Kaggle)
+- **Source:** [Supply Chain Analysis](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis) on Kaggle
 - **Size:** 100 SKUs across 3 product categories (skincare, haircare, cosmetics)
 - **Scope:** Includes product, pricing, supplier, manufacturing, shipping, and inspection data across 5 locations (Mumbai, Kolkata, Chennai, Bangalore, Delhi)
 
